@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![My Skills](https://skillicons.dev/icons?i=docker,py,cpp,java,ocaml,ts,vscode,idea,linux)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabaindaiz&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=fabaindaiz)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabaindaiz&layout=compact)
+
+
 <!--
 **fabaindaiz/fabaindaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
