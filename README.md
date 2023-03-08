@@ -6,8 +6,8 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=fabaindaiz&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <td width="55%">
+      <img src="https://github-stats-alpha.vercel.app/api?username=fabaindaiz&cc=fffefe&tc=434d58&ic=4c71f2&bc=ffffff" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=fabaindaiz&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
