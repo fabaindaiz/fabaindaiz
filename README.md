@@ -3,13 +3,11 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=docker,py,cpp,java,ocaml,mysql,ts,html,vscode,idea,git,linux" />
   </a>
-  
-  
 
 <table align="center">
   <tr>
-    <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=fabaindaiz&hide_rank=true&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=fabaindaiz&hide_rank=true&show_icons=true&hide_border=true&count_private=true&custom_title=Github%20Stats" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabaindaiz&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
