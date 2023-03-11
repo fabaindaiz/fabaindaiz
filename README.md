@@ -3,14 +3,16 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=docker,py,cpp,java,ocaml,mysql,ts,html,vscode,idea,git,linux" />
   </a>
+  
+  
 
 <table align="center">
   <tr>
     <td width="55%">
-      <img src="https://github-stats-alpha.vercel.app/api?username=fabaindaiz&cc=fffefe&tc=434d58&ic=4c71f2&bc=ffffff" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fabaindaiz&hide_rank=true&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=fabaindaiz&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabaindaiz&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
