@@ -7,10 +7,10 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=fabaindaiz&hide_rank=true&show_icons=true&hide_border=true&count_private=true&custom_title=Github%20Stats" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=fabaindaiz&hide_rank=true&show_icons=true&hide_border=true&count_private=true&custom_title=Github%20Stats" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabaindaiz&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=fabaindaiz&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
