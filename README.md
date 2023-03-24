@@ -15,7 +15,20 @@
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=fabaindaiz&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabaindaiz&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+### Currently working on
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabaindaiz&repo=Engine&hide_border=true" alt="pin2" />
     </td>
   </tr>
 </table>
