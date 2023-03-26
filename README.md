@@ -28,11 +28,11 @@
   </tr>
 </table>
 
-### Currently working on
+### 🔭 I’m currently working on
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td>
       <a href="https://github.com/fabaindaiz/corewars-compiler">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
       </a>
@@ -45,13 +45,40 @@
   </tr>
 </table>
 
+### 🌱 I’m currently learning
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/angular/angular">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular&hide_border=true" alt="pin2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mongodb/mongo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mongodb&repo=mongo&hide_border=true" alt="pin1" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hashicorp/consul">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashicorp&repo=consul&hide_border=true" alt="pin1" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ansible/ansible">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansible&repo=ansible&hide_border=true" alt="pin2" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!--
 **fabaindaiz/fabaindaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
