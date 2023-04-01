@@ -47,32 +47,15 @@
 
 ### 🌱 I’m currently learning
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/angular/angular">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=angular&repo=angular&hide_border=true" alt="pin2" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mongodb/mongo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mongodb&repo=mongo&hide_border=true" alt="pin1" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hashicorp/consul">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashicorp&repo=consul&hide_border=true" alt="pin1" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ansible/ansible">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansible&repo=ansible&hide_border=true" alt="pin2" />
-      </a>
-    </td>
-  </tr>
-</table>
+- [Angular](https://github.com/angular/angular)
+- [Ansible](https://github.com/ansible/ansible)
+- [Bazel](https://github.com/bazelbuild/bazel/)
+- [Consul](https://github.com/hashicorp/consul)
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [Scala](https://github.com/scala/scala)
+- [Bgfx](https://github.com/bkaradzic/bgfx)
+- [Glfw](https://github.com/glfw/glfw)
+
 
 <!--
 **fabaindaiz/fabaindaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
