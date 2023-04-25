@@ -38,8 +38,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/fabaindaiz/Engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabaindaiz&repo=Engine&hide_border=true" alt="pin2" />
+      <a href="https://github.com/fabaindaiz/Spellsolver">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabaindaiz&repo=Spellsolver&hide_border=true" alt="pin2" />
       </a>
     </td>
   </tr>
