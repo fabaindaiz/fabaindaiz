@@ -47,13 +47,11 @@
 
 ### 🌱 I’m currently learning
 
-- [Angular](https://github.com/angular/angular)
 - [Ansible](https://github.com/ansible/ansible)
 - [Bazel](https://github.com/bazelbuild/bazel/)
 - [Consul](https://github.com/hashicorp/consul)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 - [Scala](https://github.com/scala/scala)
-- [Bgfx](https://github.com/bkaradzic/bgfx)
 - [Glfw](https://github.com/glfw/glfw)
 
 
