@@ -34,12 +34,12 @@
   <tr>
     <td>
       <a href="https://github.com/fabaindaiz/corewars-compiler">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/fabaindaiz/mongo-firestore">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabaindaiz&repo=mongo-firestore&hide_border=true" alt="pin2" />
+      <a href="https://github.com/fabaindaiz/Engine">
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=Engine&hide_border=true" alt="pin2" />
       </a>
     </td>
   </tr>
