@@ -48,10 +48,11 @@
 ### 🌱 I’m currently learning
 
 - [Ansible](https://github.com/ansible/ansible)
-- [Consul](https://github.com/hashicorp/consul)
+- [Haskell](https://www.haskell.org/)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [React](https://github.com/facebook/react)
+- [Rust](https://github.com/rust-lang/rust)
 - [Scala](https://github.com/scala/scala)
-- [Glfw](https://github.com/glfw/glfw)
 
 
 <!--
