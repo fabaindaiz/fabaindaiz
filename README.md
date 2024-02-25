@@ -33,13 +33,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/fabaindaiz/corewars-compiler">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
+      <a href="https://github.com/fabaindaiz/simple-remote-protocol">
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=simple-remote-protocol&hide_border=true" alt="pin2" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/fabaindaiz/spellsolver">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=spellsolver&hide_border=true" alt="pin2" />
+      <a href="https://github.com/fabaindaiz/corewars-compiler">
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
       </a>
     </td>
   </tr>
@@ -47,12 +47,11 @@
 
 ### 🌱 I’m currently learning
 
-- [Ansible](https://github.com/ansible/ansible)
 - [Haskell](https://www.haskell.org/)
+- [Kotlin](https://github.com/JetBrains/kotlin)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 - [React](https://github.com/facebook/react)
 - [Rust](https://github.com/rust-lang/rust)
-- [Scala](https://github.com/scala/scala)
 
 
 <!--
