@@ -33,11 +33,6 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/fabaindaiz/simple-remote-protocol">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=simple-remote-protocol&hide_border=true" alt="pin2" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/fabaindaiz/corewars-compiler">
         <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
       </a>
