@@ -42,12 +42,8 @@
 
 ### 🌱 I’m currently learning
 
-- [Haskell](https://www.haskell.org/)
 - [Kotlin](https://github.com/JetBrains/kotlin)
-- [Kubernetes](https://github.com/kubernetes/kubernetes)
-- [React](https://github.com/facebook/react)
 - [Rust](https://github.com/rust-lang/rust)
-
 
 <!--
 **fabaindaiz/fabaindaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
