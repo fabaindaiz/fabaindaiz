@@ -38,8 +38,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/fabaindaiz/dependency-experiments">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=dependency-experiments&hide_border=true" alt="pin1" />
+      <a href="https://github.com/fabaindaiz/mixin-injection">
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=mixin-injection&hide_border=true" alt="pin1" />
       </a>
     </td>
   </tr>
