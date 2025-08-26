@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=docker,py,cpp,java,ocaml,html,ts,firebase,mysql,mongodb,vscode,idea,git,linux" />
+    <img src="https://skillicons.dev/icons?i=py,kotlin,ocaml,cpp,html,ts,vscode,idea" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=docker,git,firebase,mongodb,mysql,redis,linux,gcp" />
   </a>
 </p>
 
