@@ -12,19 +12,19 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=fabaindaiz&hide_rank=true&show_icons=true&hide_border=true&count_private=true&custom_title=Github%20Stats" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=fabaindaiz&theme=slateorange&hide_rank=true&show_icons=true&hide_border=true&count_private=true&custom_title=Github%20Stats" alt="GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=fabaindaiz&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=fabaindaiz&theme=slateorange&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=fabaindaiz&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=fabaindaiz&theme=slateorange&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
       </a>
     </td>
   </tr>
@@ -36,12 +36,12 @@
   <tr>
     <td>
       <a href="https://github.com/fabaindaiz/corewars-compiler">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=corewars-compiler&hide_border=true" alt="pin1" />
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&theme=slateorange&repo=corewars-compiler&hide_border=true" alt="pin1" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fabaindaiz/mixin-injection">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&repo=mixin-injection&hide_border=true" alt="pin1" />
+        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&theme=slateorange&repo=mixin-injection&hide_border=true" alt="pin1" />
       </a>
     </td>
   </tr>
