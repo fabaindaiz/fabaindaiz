@@ -1,62 +1,17 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,ocaml,cpp,html,ts,vscode,idea" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=docker,git,firebase,mongodb,mysql,redis,linux,gcp" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,kotlin,ocaml,c,ts,vscode,firebase,mongodb,docker,linux,gcp" />
+  <br>
+  <img alt="Dashboard stats of @fabaindaiz" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=53708112&image_size=auto" width="600" height="auto">
 </p>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=fabaindaiz&theme=slateorange&hide_rank=true&show_icons=true&hide_border=true&count_private=true&custom_title=Github%20Stats" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=fabaindaiz&theme=slateorange&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=fabaindaiz&theme=slateorange&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 🔭 I’m currently working on
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/fabaindaiz/corewars-compiler">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&theme=slateorange&repo=corewars-compiler&hide_border=true" alt="pin1" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/fabaindaiz/mixin-injection">
-        <img src="https://github-readme-stats-arasgungore.vercel.app/api/pin/?username=fabaindaiz&theme=slateorange&repo=mixin-injection&hide_border=true" alt="pin1" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 🌱 I’m currently learning
-
-- [Kotlin](https://github.com/JetBrains/kotlin)
-- [Rust](https://github.com/rust-lang/rust)
 
 <!--
 **fabaindaiz/fabaindaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
